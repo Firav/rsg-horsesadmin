@@ -3,7 +3,7 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 game 'rdr3'
 
 name 'rsg-horsesadmin'
-description 'Admin horse management for rsg-horses'
+description 'Admin horse management for rsg-horses (RSG Core v2 only)'
 version '1.0.0'
 
 shared_scripts {

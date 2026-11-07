@@ -6,6 +6,9 @@ Admin management UI for the horse data owned by **rsg-horses** (`player_horses` 
 
 This is the **legacy edition** for the deprecated `rsg-horses` resource. Its successor for **rsg-stables** horse data (RSG Core v3) is [firav-stablesadmin](https://github.com/Firav/firav-stablesadmin).
 
+> [!IMPORTANT]
+> This script is meant for **rsg-core v2** (RSG Core v2, the `rsg-horses` era). It does **not** support RSG Core v3 / `rsg-stables`.
+
 > [!NOTE]
 > AI was used to assist in the creation of this script.
 
@@ -13,7 +16,7 @@ Everything is presented through ox_lib context menus and dialogs, so there is no
 
 ## Dependencies
 
-- [rsg-core](https://github.com/Rexshack-RedM/rsg-core)
+- [rsg-core](https://github.com/Rexshack-RedM/rsg-core) — **v2** (this resource is not built for RSG Core v3)
 - [ox_lib](https://github.com/overextended/ox_lib)
 - [oxmysql](https://github.com/overextended/oxmysql)
 - **rsg-horses** (owns the `player_horses` table — deprecated upstream)
