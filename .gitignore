@@ -1,0 +1,15 @@
+# OS / editor junk
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# archives / build artifacts
+*.zip
+*.rar
+*.7z
+
+# local server logs / dumps
+*.log
+*.dmp
