@@ -13,3 +13,6 @@ Desktop.ini
 # local server logs / dumps
 *.log
 *.dmp
+
+# local / unpublished notes (store listing drafts, scratch copy)
+STORE_DESCRIPTION.txt
